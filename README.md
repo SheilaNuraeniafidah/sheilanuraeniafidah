@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Sheila 
+- 🔭 I’m currently studying at Sebelas Maret University
+- 🌱 I’m currently learning PHP, DART, Python and JAVA
+- 👯 I’m looking to collaborate on projects that can help me grow my skills in programming and development
 
 <!--
 **SheilaNuraeniafidah/sheilanuraeniafidah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
